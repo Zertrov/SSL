@@ -1,8 +1,8 @@
 # SSL
 
-Matreria:Sintaxis y Semántica de lenguajes
-Alumno: Matias Nicolas Pardo Ares
-Curso: K2152
-Turno: Martes-Noche
-Año: 2023
-Compilador: VSCODE
+-__Matreria: Sintaxis y Semántica de lenguajes
+-__Alumno: Matias Nicolas Pardo Ares
+-__Curso: K2152
+-__Turno: Martes-Noche
+-__Año: 2023
+-__Compilador: VSCODE
